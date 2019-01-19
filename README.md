@@ -18,7 +18,7 @@ Add the [Couchbase.Lite](https://info.couchbase.com/couchbase_server.html?utm_so
 
 ### Initialization
 
-iOS: Add the following to AppDelegate.FinishLauching:
+iOS: Add the following to AppDelegate.FinishLaunching:
 ```c#
 Couchbase.Lite.Support.iOS.Activate();
 ```
